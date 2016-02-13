@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Machines xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation=".\machines.xsd">
+	<Machine>Fred's machine
+		<HostName>NAIW1414J2J</HostName>
+		<Address>3.27.251.144</Address>
+		<Trys>4</Trys>
+		<Delay>60</Delay>
+	</Machine>
+	<Machine>Iain's machine
+		<HostName>NAIW1414J2J</HostName>
+		<Address>3.27.251.97</Address>
+		<Trys>4</Trys>
+		<Delay>60</Delay>
+	</Machine>
+	<Machine>Email Server
+		<HostName>NAIW1414J2J</HostName>
+		<Address>3.27.251.97</Address>
+		<Trys>4</Trys>
+		<Delay>60</Delay>
+	</Machine>
+	<Machine>Pop3 Server
+		<HostName>NAIW1414J2J</HostName>
+		<Address>3.27.251.97</Address>
+		<Trys>4</Trys>
+		<Delay>60</Delay>
+	</Machine>
+	<Machine>Pop3 Server
+		<HostName>NAIW1414J2J</HostName>
+		<Address>3.27.251.97</Address>
+		<Trys>4</Trys>
+		<Delay>60</Delay>
+	</Machine>
+</Machines>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation=".\users.xsd">
+	<User>
+		<Name>Iain Ferguson</Name>
+		<UserName>iain</UserName>
+		<Comment>This is a comment</Comment>
+		<HomeDir>c:/sam/iain</HomeDir>
+		<ExpireDate>12/05/2012</ExpireDate>
+		<InactiveDays>60</InactiveDays>
+		<InitialGroup>100</InitialGroup>
+		<Password>qwerty</Password>
+		<Uid>501</Uid>
+		<Email>iain@ia.com</Email>
+		
+	</User>
+	<User>
+		<Name>John Smith</Name>
+		<UserName>john</UserName>
+		<Comment>This is a comment</Comment>
+		<HomeDir>c:/sam/iain</HomeDir>
+		<ExpireDate>12/05/2012</ExpireDate>
+		<InactiveDays>60</InactiveDays>
+		<InitialGroup>100</InitialGroup>
+		<Password>qwerty</Password>
+		<Uid>502</Uid>
+		<Email>john@ia.com</Email>
+</User>
+	<User>
+		<Name>Joe Baker</Name>
+		<UserName>joe</UserName>
+		<Comment>This is a comment</Comment>
+		<HomeDir>c:/sam/iain</HomeDir>
+		<ExpireDate>12/05/2012</ExpireDate>
+		<InactiveDays>60</InactiveDays>
+		<InitialGroup>100</InitialGroup>
+		<Password>qwerty</Password>
+		<Uid>503</Uid>
+		<Email>joe@ia.com</Email>
+</User>
+	<User>
+		<Name>Thomas Collard</Name>
+		<UserName>tom</UserName>
+		<Comment>This is a comment</Comment>
+		<HomeDir>c:/sam/iain</HomeDir>
+		<ExpireDate>12/05/2012</ExpireDate>
+		<InactiveDays>60</InactiveDays>
+		<InitialGroup>100</InitialGroup>
+		<Password>qwerty</Password>
+		<Uid>504</Uid>
+		<Email>tom@ia.com</Email>
+	</User>
+	<User>
+		<Name>Jeff Morgen</Name>
+		<UserName>jeff</UserName>
+		<Comment>This is a comment</Comment>
+		<HomeDir>c:/sam/jeff</HomeDir>
+		<ExpireDate>12/05/2012</ExpireDate>
+		<InactiveDays>60</InactiveDays>
+		<InitialGroup>100</InitialGroup>
+		<Password>qwerty</Password>
+		<Uid>505</Uid>
+		<Email>jeff@ia.com</Email>
+	</User>
+</Users>

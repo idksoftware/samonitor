@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>	
+	<SAMonitor>	
+		<Id>1</Id>
+		<Name>Sam1</Name>
+		<Priority>1</Priority>
+		<LogLevel>INFO</LogLevel>
+	</SAMonitor>	
+		
+<WEBServers>
+	<State>false</State>
+	<Port>1234</Port>
+</WEBServers>
+<Ntp>
+	<State>false</State>
+	<IpAddress>12345</IpAddress>
+</Ntp>
+<Telnet>
+	<State>false</State>
+	<Port>1234</Port>
+	<Timeout>10</Timeout>
+	<MaxConnections>10</MaxConnections>
+</Telnet>
+<Paths>
+	<RootPath> </RootPath>
+	<TempPath> </TempPath>
+	<ConfigPath> </ConfigPath>
+	<SystemPath> </SystemPath>
+	<SchemaPath> </SchemaPath>
+	<ScriptsPath> </ScriptsPath>
+	<XslPath> </XslPath>
+	<CssPath> </CssPath>
+	<DataPath> </DataPath>
+	<LogPath> </LogPath>
+	<WebsitePath> </WebsitePath>
+</Paths>
+</Config>	

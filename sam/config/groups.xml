@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Groups xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation=".\groups.xsd">
+	<Group>
+		<Name>test1</Name>
+		<GID>100</GID>
+		<GroupList>
+			<User>Iain</User>
+		</GroupList>
+	</Group>
+	<Group>
+		<Name>test2</Name>
+		<GID>101</GID>
+		<GroupList>
+			<User>Iain</User>
+		</GroupList>
+</Group>
+	<Group>
+		<Name>test3</Name>
+		<GID>102</GID>
+		<GroupList>
+			<User>Iain</User>
+		</GroupList>
+</Group>
+	<Group>
+		<Name>test4</Name>
+		<GID>103</GID>
+		<GroupList>
+			<User>Iain</User>
+		</GroupList>
+	</Group>
+	<Group>
+		<Name>test5</Name>
+		<GID>104</GID>
+		<GroupList>
+			<User>Iain</User>
+		</GroupList>
+	</Group>
+</Groups>

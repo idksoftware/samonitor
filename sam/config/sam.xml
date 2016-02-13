@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2010-06-03T16:52:10</date>
+  <millis>1275580330954</millis>
+  <sequence>0</sequence>
+  <logger>App</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Logging started</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2010-06-07T13:25:58</date>
+  <millis>1275913558201</millis>
+  <sequence>0</sequence>
+  <logger>App</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Logging started</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2010-06-07T13:27:17</date>
+  <millis>1275913637077</millis>
+  <sequence>0</sequence>
+  <logger>App</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Logging started</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2010-06-07T13:28:25</date>
+  <millis>1275913705569</millis>
+  <sequence>0</sequence>
+  <logger>App</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Logging started</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2010-06-07T19:01:56</date>
+  <millis>1275933716672</millis>
+  <sequence>0</sequence>
+  <logger>App</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Logging started</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2010-06-07T19:07:45</date>
+  <millis>1275934065433</millis>
+  <sequence>0</sequence>
+  <logger>App</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Logging started</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2010-06-07T19:13:33</date>
+  <millis>1275934413774</millis>
+  <sequence>0</sequence>
+  <logger>App</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Logging started</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2010-06-07T19:19:37</date>
+  <millis>1275934777136</millis>
+  <sequence>0</sequence>
+  <logger>App</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Logging started</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2010-06-07T19:41:41</date>
+  <millis>1275936101091</millis>
+  <sequence>0</sequence>
+  <logger>App</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Logging started</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2010-06-07T19:41:50</date>
+  <millis>1275936110158</millis>
+  <sequence>0</sequence>
+  <logger>App</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Logging started</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2010-06-07T19:51:51</date>
+  <millis>1275936711324</millis>
+  <sequence>0</sequence>
+  <logger>App</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Logging started</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2010-06-07T19:59:02</date>
+  <millis>1275937142656</millis>
+  <sequence>0</sequence>
+  <logger>App</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Logging started</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2010-06-07T20:01:08</date>
+  <millis>1275937268123</millis>
+  <sequence>0</sequence>
+  <logger>App</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Logging started</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2010-06-07T20:01:14</date>
+  <millis>1275937274782</millis>
+  <sequence>0</sequence>
+  <logger>App</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Logging started</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2010-06-07T20:05:27</date>
+  <millis>1275937527466</millis>
+  <sequence>0</sequence>
+  <logger>App</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Logging started</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2010-06-08T13:27:10</date>
+  <millis>1276000030795</millis>
+  <sequence>0</sequence>
+  <logger>App</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Logging started</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2010-06-08T15:40:02</date>
+  <millis>1276008002640</millis>
+  <sequence>0</sequence>
+  <logger>App</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Logging started</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2010-06-08T18:35:13</date>
+  <millis>1276018513292</millis>
+  <sequence>0</sequence>
+  <logger>App</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Logging started</message>
+</record>
