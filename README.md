@@ -8,4 +8,4 @@ SAMonitor is a Simple Availability Monitoring tool. This tool enables anyone wit
 SAMonitor is a robust system where a number of monitoring stations can be deployed. In the event of the station itself stopping, due to a possible hardware failure or maintenance of the server the monitor is running, other stations will automatically take over the task of monitoring with the minimum of loss of monitoring cover.
 
 SAMonitor is cross-platform, targeting Windows, Mac and Unix OS’s so can be deployed any ware required in the network.
- Add a custom footer
+
